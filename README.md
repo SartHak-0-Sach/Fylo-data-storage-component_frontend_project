@@ -78,4 +78,4 @@ I love receiving feedback! I'm always looking to improve my challenges and my pl
 
 If you found this project helpful, consider sharing it with others to spread the knowledge!
 
-**Happy storing!** 🗄️🚀
+**Happy saving!** 🗄️🚀
