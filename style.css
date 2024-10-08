@@ -219,6 +219,21 @@ section:nth-child(2) h2>span {
     transform: rotate(-136deg);
 }
 
+/* Footer */
+.attribution {
+    position: absolute;
+    bottom: .8rem;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 11px;
+    text-align: center;
+    color: white;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
 @media (max-width: 60rem) {
     .special {
         display: none;
